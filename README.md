@@ -7,6 +7,10 @@ The project provides **CRUD operations** and a small **REST API** to view, edit,
 
 ---
 
+Live Demo : https://userapp-3ot8.onrender.com/
+Live Demo : https://userapp-production-3af0.up.railway.app/
+---
+
 ## 🚀 Features
 
 * Generate fake users using `@faker-js/faker`.
